@@ -1,0 +1,13 @@
+This mod contains music to replace vanilla Terraria music, these new themes are composed entirely by charliedebnam.
+
+Mod Logo - Mikpinryb
+Codework - Quicksilvur
+Spritework - THEREDSTONEBRO
+
+Themes currently implemented:
+- Rain
+- Blood Moon
+- King Slime
+- Eye of Cthulhu
+
+Note: Other themes will be added in future updates
